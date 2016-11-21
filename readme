@@ -1,0 +1,5 @@
+Utility Package for Computer Vision and Graphics
+
+There are various utility tasks like Image Segmentation, Motion Segmentation etc that are very needed when doing a graphics or vision project. Now, there are general methods available in popular libraries like Opencv for these tasks. But they do not perform quite well because they are meant for general purpose use. However, there are non-rudimentary research techniques available to solve these tasks, few of which are available in some package and many are not implemented anywhere.
+
+This Utility Package contains implementation of these non-rudimentary research solutions for common tasks, which can be used in a user friendly UI based application.
